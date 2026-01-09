@@ -13,6 +13,23 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+letter {
+  font-size: large;
+  color: gray
+}
+
+.current {
+  border-right: 2px solid black;
+}
+
+.correct {
+  color: black
+}
+
+.incorrect {
+  color: red
+}
+
 a {
   font-weight: 500;
   color: #646cff;
